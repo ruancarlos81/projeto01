@@ -1,0 +1,42 @@
+AMBIENTAÇÃO:
+    LOCAL: Santa
+    TEMPO: futuro próximo (10–20 anos)
+    SITUAÇÃO: Colapso sistêmico nacional, causando caos social, econômico e tecnologico.
+    GATILHO
+        Não há explosão ou evento visivel único    
+        Apagão sistemico em cascata:
+            Satélites de comunicação fora do ar
+            PIX, cartões e bancos congelados
+            Internet instável → depois, silêncio
+            Sistemas de energia e distribuição falham de forma irregular
+        Ninguém sabe se é ataque, colapso global ou sabotagem.
+        Informação truncada, rumores e boatos dominam
+            “Dizem que Brasília caiu.”
+            “Não, foi só o sistema.”
+            “Ouvi que o Sul se isolou.”
+
+PRIMEIRA FASE: PARANOIA URBANA
+    Cidades médias e grandes (Florianopolis, Joinvile, Blumenau, Criciuma):
+        Condomínios e predios transformados em fortalezas.
+        Sindicos e líderes locais assumem poder.
+        Quem tem gerador ou água vira autoridade.
+    Favelas e periferias:
+        Redes locais sobrevivem melhor no início.
+        Cozinhas coletivas, rádios improvisadas.
+        Conflitos por água, comida e remédios.
+    EStado: Policia desaparece progressivamente.
+
+SEGUNDA FASE: A ESTRADA / EXPLORAÇÃO
+    Meses depois, Santa Catarina torna-se um território fragmentado.
+    Macro regioes e rotas principais podem ser:
+        Estradas abandonadas.
+        Pedágios e postos tomados por grupos armados.
+        Cidades médias virando cidades fantasma.
+    Clima e desafios ambientais:
+        Secas extremas no Oeste
+        Enchentes no Vale do Itajaí e Litoral.
+        Frio intenso e vento no planalto.
+    Personagens e grupos do jogador:
+        Solo, Casal ou Grupo Familiar (com filhos e/ou cães).
+        Sobrevivencia baseada em coleta, caça, pesca, agricultura improvisada, furtividade e combate.
+    Alimentos: Mandioca, milho, latas vencidas, o que sobrou de sitios abandonados.

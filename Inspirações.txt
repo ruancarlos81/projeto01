@@ -1,0 +1,28 @@
+--- HISTÓRIA ----
+    //Leave the World Behind — Rumaan Alam
+    Um ataque sistêmico derruba comunicação e infraestrutura, levando a sociedade ao colapso silencioso e à paranoia coletiva.
+
+    //The Road — Cormac McCarthy
+    Após um evento apocalíptico indefinido, o mundo está devastado e sem civilização; resta apenas a sobrevivência básica.
+
+    //Parable of the Sower — Octavia E. Butler
+    O colapso econômico, climático e social dos EUA leva à fragmentação da sociedade e ao surgimento de novas crenças.
+
+--- MECANICA ----
+    //PAtologic 2
+    Colapso social localizado; Informação ambigua e contraditória; Sobrevivencia ligada a escolhas morais
+    NPCs tem agendas próprias (Algumas agendas prédefinidas)
+
+    //This war of mine
+    Guerra vista do cotidiano, não do heroismo; Gestão de recursos + decisões morais duras; Atmosfera opressiva sem espetáculo
+
+    //Death Stranding
+    Mundo fragmentado; Reconstrução indireta (rotas, conexções); Andar é importante
+
+    //The long Dark
+    Isolamento pós-evento; Clima como antagonista; Sobrevivencia lenta
+    Serra Catarinense mais fria, Litoral mais caotico, oeste com menos contato humano, etc...
+
+    //Frostpunk
+    Sociedade sob estresse extremo; Escolhas éticas "necessarias";Leis moldam comportamento social
+    Inspiração para comunidades catarinenses com regras próprias; Nenhuma decisão é limpa.

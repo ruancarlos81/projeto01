@@ -1,0 +1,58 @@
+---- JOGO DE SOBREVIVENCIA "REAL" EM SANTA CATARINA COM MAPA DIVIDIDO EM MESO-REGIOES ----
+    ---Macro regioes de Santa Catarina---
+        -Oeste Catarinense- (Chapecó e arredores)
+        -Norte Catarinense- (Região de Mafra, Canoinhas)
+        -Serrana- (Região e Lajes)
+        -Vale do Itajaí- (Inclui Blumenau e o Alto Vale)
+        -Grande Florianopolis- (Região capital)
+        -Sul Catarinense- (Região de Criciuma e Tubarão)
+
+---- UTILIZAR DE JAVA + LUA ----
+
+---- ESTADO DO MUNDO ----
+    -Colapso social não explicado-
+    -Estado ausente-
+    -infraestrutura quebrada, mas não zerada-
+    -Sobreviventes isolados, grupos armados, comunidades emergentes-
+    -Informação fragmentada via radio (noticias verdadeiras e noticias falsas (tentativas de golpes))
+
+---- SISTEMA DE MODO DE SOBREVIVENCIA ----
+    -solo- mais liberdade, monos bocas para alimentar, menos vinculos emocionais, mais mobilidade.
+    -casal- Necessidade de protejer o outro, IA companheira, Decisões conjuntas (ficar/fugir/atacar).
+    -casal - Gestão de grupo, crianças = vulnerabilidade + motivação, barulho, lentidão, risco, algumas ações se tornam moralmente mais pesadas.
+    (Caes:
+        -Raça define mecanica-
+            -Guarda; Caça; Alerta; Atrapalha Stealth-
+        -Consequencia-
+            -Pode morrer, alto custo emocional-)
+
+---- EDC ----
+    -categoria de itens-
+        -Comunicação (radio AM/FM a manivelas, radio VHF)-
+        -Sobrevivencia (Canivete; kit fogo; Corda; Cantil; Filtro de água; Kit de comida basica)-
+        -Navegação (Mapa fisico; Bússola)-
+        -Saúde (Kit de primeiros socorros; livro de medicina de ervas)-
+        -Ferramentas (Multitool; lanterna; pilhas)-
+
+---- RADIO ----
+    -Noticias Diarias (verdadeiras, falsas ou inviesadas)-
+    -Boatos-
+    -Alertas Climáticos (identificadas por anciões das regioẽs em questão)-
+    -Chamadas de ajudar (verdadeiras e falsas para emboscadas)-
+    -Propaganda de facções (grupos de sobreviventes)-
+    -Silencio total em certos momentos-
+
+    -GAMEPLAY-
+        -frequencia descobertas por-
+            -Anotações encontrads-
+            -Escuta passiva-
+            -Repetidoras-
+        -repetidoras como pontos estratégicos-
+        -radio ligado gera som -> risco-
+
+---- UTILIZARA DAS SEGUINTES MECANICAS: ----
+    -Coletar-
+    -Explorar-
+    -Confrontar-
+    -Trocar-
+    -Consequencia-
