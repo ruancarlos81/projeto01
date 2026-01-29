@@ -1,5 +1,5 @@
 AMBIENTAÇÃO:
-    LOCAL: Santa
+    LOCAL: Santa Catarina
     TEMPO: futuro próximo (10–20 anos)
     SITUAÇÃO: Colapso sistêmico nacional, causando caos social, econômico e tecnologico.
     GATILHO
