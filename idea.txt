@@ -1,5 +1,5 @@
 ---- JOGO DE SOBREVIVENCIA "REAL" EM SANTA CATARINA COM MAPA DIVIDIDO EM MESO-REGIOES ----
-    ---Macro regioes de Santa Catarina---
+    ---Meso regioes de Santa Catarina---
         -Oeste Catarinense- (Chapecó e arredores)
         -Norte Catarinense- (Região de Mafra, Canoinhas)
         -Serrana- (Região e Lajes)
@@ -7,7 +7,7 @@
         -Grande Florianopolis- (Região capital)
         -Sul Catarinense- (Região de Criciuma e Tubarão)
 
----- UTILIZAR DE JAVA + LUA ----
+---- UTILIZAR DE C * Raylib ----
 
 ---- ESTADO DO MUNDO ----
     -Colapso social não explicado-
@@ -19,7 +19,7 @@
 ---- SISTEMA DE MODO DE SOBREVIVENCIA ----
     -solo- mais liberdade, monos bocas para alimentar, menos vinculos emocionais, mais mobilidade.
     -casal- Necessidade de protejer o outro, IA companheira, Decisões conjuntas (ficar/fugir/atacar).
-    -casal - Gestão de grupo, crianças = vulnerabilidade + motivação, barulho, lentidão, risco, algumas ações se tornam moralmente mais pesadas.
+    -casal com filhos- Gestão de grupo, crianças = vulnerabilidade + motivação, barulho, lentidão, risco, algumas ações se tornam moralmente mais pesadas.
     (Caes:
         -Raça define mecanica-
             -Guarda; Caça; Alerta; Atrapalha Stealth-
